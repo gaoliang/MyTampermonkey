@@ -4,10 +4,10 @@
 // @version      0.1
 // @description  修复南邮正方登录界面的bug,比如有时候输入框错乱，而且没法用chrome记住密码。
 // @author       Gao Liang
-// @include      http://jwxt.njupt.edu.cn
-// @include      http://jwxt.njupt.edu.cn/default2.aspx
-// @include      http://202.119.225.34
-// @include      http://202.119.225.34/default2.aspx
+// @match        http://jwxt.njupt.edu.cn
+// @match        http://jwxt.njupt.edu.cn/default2.aspx
+// @match        http://202.119.225.34
+// @match        http://202.119.225.34/default2.aspx
 // @grant        none
 // ==/UserScript==
 
