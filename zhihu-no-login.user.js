@@ -2,7 +2,7 @@
 // @name         知乎免登陆
 // @namespace    https://github.com/gaoliang/MyTampermonkey
 // @version      0.1
-// @description  知乎免登陆
+// @description  知乎免登陆,css版
 // @author       Gao Liang
 // @match        www.zhihu.com/*
 // @grant        GM_addStyle
